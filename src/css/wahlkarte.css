@@ -1,0 +1,7 @@
+@import url('leaflet.css');
+@import url('bootstrap.css');
+
+#leafmap {
+	min-height: 400px;
+	display: block;
+}
